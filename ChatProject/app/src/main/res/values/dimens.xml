@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_for_vp_img_btn">20dp</dimen>
+    <dimen name="inf_name">25sp</dimen>
+    <dimen name="info_other">18sp</dimen>
+</resources>
